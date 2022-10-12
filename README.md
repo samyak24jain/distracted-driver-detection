@@ -8,6 +8,8 @@ We think that having a system that alerts the driver if they are distracted, is 
 
 We intend to do this using Convolutional Neural Networks and classify the drivers actions into 10 classes- safe driving, texting - right,talking on the phone - right, texting - left, talking on the phone - left, operating the radio, drinking, reaching behind, hair and makeup, talking to passenger.
 
+DATASET - [State Farm Distracted Driver Dataset](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data)
+
 The contents of the notebook can be found below.
 
 Part 1: Data exploration
